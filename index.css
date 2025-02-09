@@ -14,9 +14,10 @@ body {
 
 button {
     font-size: 20px;
-    padding: 50px;
+    padding: 5px;
     background-color: rgb(91, 226, 125);
     color:white;
     border-radius: 15px;
     border-color: rgb(46, 160, 74);
+    margin: 20px;
 }
